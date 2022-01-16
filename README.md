@@ -37,3 +37,8 @@ To see the rendered text, click on the play arrow at the top of the page.
    1. The results of the execution are shown below the code cell.
 ![image](https://user-images.githubusercontent.com/17353913/149678866-c355f918-883f-4226-a852-348b4b03417d.png)
    1. To edit existing code, just start typing in a selected code cell.
+
+1. To save your work on your computer, click on the Download button at the top of the page.
+![image](https://user-images.githubusercontent.com/17353913/149679544-597128a7-f9b3-451b-b634-676534c001f0.png)
+
+
