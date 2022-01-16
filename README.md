@@ -41,4 +41,19 @@ To see the rendered text, click on the play arrow at the top of the page.
 1. To save your work on your computer, click on the Download button at the top of the page.
 ![image](https://user-images.githubusercontent.com/17353913/149679544-597128a7-f9b3-451b-b634-676534c001f0.png)
 
+## Alternative
+
+To run the notebooks on your computer, execute the following steps.
+
+1. Install Python (https://www.python.org/downloads/). 
+
+2. Install Jupyter Notebook using the command below.
+
+```pip3 install jupyter```
+
+3. Start the notebook server.
+
+```jupyter notebook```
+
+4. Copy and paste ```http://localhost:8888``` in your web browser.
 
