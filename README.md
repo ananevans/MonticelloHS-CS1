@@ -6,11 +6,11 @@ To be read the lesson, add your own code and run it, follow the steps below.
 
 1. Open https://mybinder.org/v2/gh/ananevans/MonticelloHS-CS1.git/HEAD
 
-It will take a little while for ```mybinder``` to start. You will see the image below.
+It will take a little while for ```mybinder``` to start. You will see the image below for a couple of minutes.
 
 ![image](https://user-images.githubusercontent.com/17353913/149821742-95e82633-9c31-4f50-84ea-22d019058689.png)
 
-When ```mybinder``` finsihes loading you will see an image similar to the one below.
+When ```mybinder``` finishes loading you will see an image similar to the one below.
 
 ![image](https://user-images.githubusercontent.com/17353913/149821896-8595bae3-8615-4161-9bb2-b9c456c70ee7.png)
 
