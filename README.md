@@ -10,9 +10,9 @@ It will take a little while for ```mybinder``` to start. You will see the image 
 
 ![image](https://user-images.githubusercontent.com/17353913/149821742-95e82633-9c31-4f50-84ea-22d019058689.png)
 
-When ```mybinder``` finsihes loading you will see an imgige similar to the one below.
+When ```mybinder``` finsihes loading you will see an image similar to the one below.
 
-![image](https://user-images.githubusercontent.com/17353913/149678458-9f141a18-38fe-4fe7-9d4e-29c0ae93e4c5.png)
+![image](https://user-images.githubusercontent.com/17353913/149821896-8595bae3-8615-4161-9bb2-b9c456c70ee7.png)
 
 3. Double click on the name of the lesson you want to access. 
 
