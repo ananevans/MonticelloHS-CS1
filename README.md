@@ -18,7 +18,7 @@ When ```mybinder``` finishes loading you will see an image similar to the one be
 
 ![image](https://user-images.githubusercontent.com/17353913/149679194-5e730bbb-5a44-41db-b55b-b5f59be5bcd3.png)
 
-4. The notebook contains markdown cells with explanations and instructions.For example, the cells shown above are all markdown cells.
+4. The notebook contains markdown cells with explanations and instructions. For example, the cells shown above are all markdown cells.
 
 6. To record your answers in a markdown cell, double click on the cell and edit it. For a brief introduction to markdown see https://www.markdownguide.org/cheat-sheet/. 
 
