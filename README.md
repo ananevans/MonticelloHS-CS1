@@ -8,7 +8,7 @@ To be read the lesson, add your own code and run it, follow the steps below.
 
 It will take a little while for ```mybinder``` to start. You will see the image below.
 
-![image](https://user-images.githubusercontent.com/17353913/149679131-32e1f19b-68e3-48e7-8921-50318a615542.png)
+![image](https://user-images.githubusercontent.com/17353913/149821742-95e82633-9c31-4f50-84ea-22d019058689.png)
 
 When ```mybinder``` finsihes loading you will see an imgige similar to the one below.
 
