@@ -2,7 +2,7 @@ This repository contains the materials developed for sections 1 and 2 of CTE Com
 
 Each lesson is contained in a Jupyter notebook. 
 
-To be read the lesson, add your own code and run it, follow the steps below.
+To read the lesson, add your own code and run it, follow the steps below.
 
 1. Open https://mybinder.org/v2/gh/ananevans/MonticelloHS-CS1.git/HEAD
 
